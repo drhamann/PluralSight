@@ -1,0 +1,35 @@
+	*Course introduction
+Globo Ticket
+Clean Architecture/Onion archtecture
+
+Auto Mapper
+Mediator
+Swagger
+.net core 3.1
+
+Pre-requesites
+C#
+Asp.Net Core e EF CORE
+REST API
+Blazor
+
+Path -> Aspnet-core
+
+What you need
+ VS and SDK 3.1
+
+GloboTicket Ticket Management
+- Manage Event, ticket sales etc
+- API
+- Blazor APP
+
+	* Understandin Foundational Architeture Principles
+DI - 
+SC
+SR
+DRY
+PI
+
+
+
+
